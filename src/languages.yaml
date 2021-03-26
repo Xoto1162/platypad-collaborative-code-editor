@@ -1,0 +1,80 @@
+- id: 46
+  text: Bash
+  language: shell
+  extension: sh
+- id: 50
+  text: C (GCC 9.2.0)
+  language: c
+  extension: c
+- id: 51
+  text: C# (Mono 6.6.0.161)
+  language: csharp
+  extension: cs
+- id: 54
+  text: C++ (GCC 9.2.0)
+  language: cpp
+  extension: cpp
+- id: 60
+  text: Go (1.13.5)
+  language: go
+  extension: go
+- id: 62
+  text: Java (OpenJDK 13.0.1)
+  language: java
+  extension: java
+- id: 63
+  text: JavaScript (Node.js 12.14.0)
+  language: javascript
+  extension: js
+- id: 78
+  text: Kotlin (1.3.70)
+  language: kotlin
+  extension: kt
+- id: 64
+  text: Lua (5.3.5)
+  language: lua
+  extension: lua
+- id: 67
+  text: Pascal (FPC 3.0.4)
+  language: pascal
+  extension: pas
+- id: 68
+  text: PHP (7.4.1)
+  language: php
+  extension: php
+- id: 71
+  text: Python (3.8.1)
+  language: python
+  extension: py
+- id: 80
+  text: R (4.0.0)
+  language: r
+  extension: r
+- id: 72
+  text: Ruby (2.7.0)
+  language: ruby
+  extension: rb
+- id: 73
+  text: Rust (1.40.0)
+  language: rust
+  extension: rs
+- id: 81
+  text: Scala (2.13.2)
+  language: UNKNOWN
+  extension: scala
+- id: 82
+  text: SQL (SQLite 3.27.2)
+  language: sql
+  extension: sql
+- id: 83
+  text: Swift (5.2.3)
+  language: swift
+  extension: swift
+- id: 74
+  text: TypeScript (3.7.4)
+  language: typescript
+  extension: ts
+- id: 84
+  text: Visual Basic.Net
+  language: vb
+  extension: vb

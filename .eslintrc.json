@@ -1,0 +1,43 @@
+{
+  "root": true,
+  "env": {
+    "node": true
+  },
+  "extends": [
+    "plugin:vue/essential",
+    "eslint:recommended"
+  ],
+  "parserOptions": {
+    "parser": "babel-eslint"
+  },
+  "plugins": [
+    "vue"
+  ],
+  "rules": {
+    "semi": [
+      "error",
+      "never"
+    ],
+    "quotes": [
+      "error",
+      "single"
+    ],
+    "indent": [
+      "error",
+      4
+    ],
+    "space-infix-ops": "error",
+    "key-spacing": [
+      "error",
+      {
+        "beforeColon": false,
+        "afterColon": true
+      }
+    ],
+    "comma-spacing": "error",
+    "comma-dangle": [
+      "error",
+      "always-multiline"
+    ]
+  }
+}
